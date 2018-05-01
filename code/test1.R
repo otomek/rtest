@@ -1,0 +1,2 @@
+plot(iris)
+summary(iris)
